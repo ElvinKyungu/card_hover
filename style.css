@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(0, 0, 0);  
+    background-color: #41b883;  
     margin: 0px;  
     height: 100vh;
     
@@ -203,6 +203,6 @@ body {
   }
   
   #love-button {
-    color: rgb(33, 150, 243);
-    border-color: rgb(33, 150, 243);
+    color: #000;
+    border-color: #000;
   }
